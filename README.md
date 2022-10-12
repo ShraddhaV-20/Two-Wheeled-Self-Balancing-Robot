@@ -22,4 +22,7 @@ robot that is used for educational purposes to help students with mechatronics.â
 
 
 ## MATLAB Simulation 
+![Capture](https://user-images.githubusercontent.com/95766195/195294018-c9228a96-d56a-475a-847d-c3e1129fa2c5.PNG)
 
+### Result 
+A two wheeled balancing robot is based on the principle of inverted pendulum and configurations that rely on dynamic balancing systems. The controller is equipped with motion sensors. The control strategy called Proportional Integral Derivative contoller is used to control the trajectory of the robot which calculates an error value. 
