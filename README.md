@@ -16,3 +16,10 @@ precise methods for the distinct product development steps.
 ## Revised Problem Statement 
 “To design a compact automated and reasonably priced two wheeled self balancing
 robot that is used for educational purposes to help students with mechatronics.”
+
+### 3D Design
+![Capture](https://user-images.githubusercontent.com/95766195/195293476-00fce9b7-ca20-41dc-b2b9-d0ecd8d08cc6.PNG)
+
+
+## MATLAB Simulation 
+
